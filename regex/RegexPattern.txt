@@ -17,3 +17,21 @@ $ matches the end of the stirng or just before the newline at the end of the str
 [] set of characters
 
 [^] complementing the set
+
+\d decimal digit
+
+\D not a decimal digit
+
+\s whitespace character
+
+\S not a whitespace character
+
+\w word character ... as well as number and the underscore
+
+\W not a word character
+
+A|B either A or B 
+
+(...) a grouop
+
+(?:...) non-capturing version
