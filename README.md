@@ -1,13 +1,11 @@
-# Python
-
-
-## Install Package
-
-```
-pip install pytest
-```
-## Run command
-
-```
-pytest test_hello.py
-```
+# Programming with python
+- Functions
+- Variables
+- Conditionals
+- Exceptions
+- [Libraries](https://github.com/davitlabadze/python-exercise/tree/master/libraries)
+- [Unit Tests](https://github.com/davitlabadze/python-exercise/tree/master/unit)
+- [File I/O](https://github.com/davitlabadze/python-exercise/tree/master/file)
+- [Regular Expressions](https://github.com/davitlabadze/python-exercise/tree/master/regex)
+- [Object-Oriented Programming (OOP)](https://github.com/davitlabadze/python-exercise/tree/master/oop)
+- [Et Cetera](https://github.com/davitlabadze/python-exercise/tree/master/etcetera)
