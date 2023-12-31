@@ -12,6 +12,8 @@ pip install mypy
 ```
 [docstring](https://peps.python.org/pep-0257/)
 
+[argparse](https://docs.python.org/3/library/argparse.html)
+
 
 | Name  | Command |
 | ------------- | ------------- |
@@ -19,6 +21,7 @@ pip install mypy
 | global  | `python3 bank.py`  |
 | constants  | `python3 meows.py`  |
 | mypy  | `python3 woofs.py` and check `mypy woofs.py` |
+| argparse  | `python3 chirps.py -n 2`, `python3 chirps.py -h`|
 
 
 
