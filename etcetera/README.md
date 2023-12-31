@@ -26,6 +26,8 @@ pip install mypy
 | list comprehensions  | `python3 griffindors.py`  |
 | [filter](https://docs.python.org/3/library/functions.html#filter)  | `python3 filter.py`  |
 | dictionary comprehensions  | `python3 dictcomprehensions.py`  |
+| [enumerate](https://docs.python.org/3/library/functions.html#enumerate)  | `python3 enumerate.py`  |
+
 
 
 
