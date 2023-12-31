@@ -10,6 +10,7 @@
 ```
 pip install mypy
 ```
+[docstring](https://peps.python.org/pep-0257/)
 
 
 | Name  | Command |
