@@ -4,20 +4,12 @@
 
 [how to](docs.python.org/3/howto/) 
 
-[typing](https://docs.python.org/3/library/typing.html)
-
-[mypy](https://mypy.readthedocs.io/en/stable/)
-```
-pip install mypy
-```
-
 
 | Name  | Command |
 | ------------- | ------------- |
 | set  | `python3 houses.py`  |
 | global  | `python3 bank.py`  |
 | constants  | `python3 meows.py`  |
-| mypy  | `python3 woofs.py` and check `mypy woofs.py` |
 
 
 
