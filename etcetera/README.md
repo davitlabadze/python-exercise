@@ -25,6 +25,8 @@ pip install mypy
 | [map](https://docs.python.org/3/library/functions.html#map)  | `python3 yell.py`  |
 | list comprehensions  | `python3 griffindors.py`  |
 | [filter](https://docs.python.org/3/library/functions.html#filter)  | `python3 filter.py`  |
+| dictionary comprehensions  | `python3 dictcomprehensions.py`  |
+
 
 
 
