@@ -8,6 +8,7 @@
 | Name  | Command |
 | ------------- | ------------- |
 | set  | `python3 houses.py`  |
+| global  | `python3 bank.py`  |
 
 
 
