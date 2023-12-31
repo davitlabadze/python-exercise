@@ -9,6 +9,8 @@
 | ------------- | ------------- |
 | set  | `python3 houses.py`  |
 | global  | `python3 bank.py`  |
+| constants  | `python3 meows.py`  |
+
 
 
 
